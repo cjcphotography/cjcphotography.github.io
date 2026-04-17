@@ -29,7 +29,7 @@ const CLIENTS = [
       { num: "$385K",  label: "Total Raised" }
     ],
     thumbnail: "images/clients/pucks-thumb.jpg",
-    photos: ["images/clients/pucks-1.jpg","images/clients/pucks-2.jpg","images/clients/pucks-3.jpg"]
+    photos: ["images/clients/pucks-1.JPG","images/clients/pucks-2.JPG","images/clients/pucks-3.jpg"]
   },
   {
     id: "women-in-business",
@@ -57,7 +57,7 @@ const CLIENTS = [
       { num: "5",    label: "Hours Shot" }
     ],
     thumbnail: "images/clients/stfx-thumb.jpg",
-    photos: ["images/clients/stfx-1.jpg","images/clients/stfx-2.jpg","images/clients/stfx-3.jpg"]
+    photos: ["images/clients/stfx-1.jpg","images/clients/stfx-2.JPG","images/clients/stfx-3.jpg"]
   },
   {
     id: "oliver-bray-music",
