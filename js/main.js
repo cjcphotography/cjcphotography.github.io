@@ -12,7 +12,7 @@ const CONTACT = {
   email:     "charliecaddick123@gmail.com",
   instagram: "@cjc_photography2025",
   igUrl:     "https://www.instagram.com/cjc_photography2025",
-  location:  "North Vancouver, BC (Now based in Antigonish, NS)",
+  location:  "North Vancouver, BC (Currently based in Antigonish, NS)",
   phone:     "778-840-2042"
 };
 
